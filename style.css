@@ -1,14 +1,26 @@
 body {
-    background-color: lightblue;
+    background-color: rgb(217, 244, 255);
   }
   
   h1 {
     color: white;
-    text-align: center;
   }
-  
-  p {
-    color:rebeccapurple;
+      
+    .center{ 
+      text-align: center;
+     }
+
+     .fonte-verde{
+      color: green;
+   }
+ #para {
+    
     font-family: verdana;
     font-size: 20px;
+
   }
+ h2 {
+    color: rgb(255, 50, 50);
+  }
+
+  
