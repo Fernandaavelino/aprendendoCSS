@@ -3,14 +3,16 @@
  body {
     background-color: rgba(185, 22,62,0.2);
     background-image: url("https://www.nicepng.com/png/detail/800-8002756_png-borboletas-lacremania-imagem-fundo-de-borboletas-em.png");
+    font-family: "Sofia", sans-serif;
+    font-family: 'Dancing Script', cursive;
   }
  
 
   h1 {
     color: white;
-    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    text-shadow: 1px 1px 2px rgb(161, 255, 74), 0 0 25px #040456, 0 0 5px rgb(93, 93, 218);
     border: 2px solid rgb(0, 0, 0);
-    
+    ;
   }
   
   h1 {
@@ -26,14 +28,16 @@
 
      .fonte-verde{
       color:black;
-      margin-top: 100px;
+      margin-top: 50px;
       padding-top: 
+      
     ;
    }
  #para {
     
-    font-family: verdana;
     font-size: 20px;
+    outline-style:double;
+
     
  }
  /*ID*/
@@ -42,9 +46,27 @@
   }
   h2 {
     color: white;
-    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    text-shadow: 1px 1px 2px rgb(184, 0, 217), 0 0 25px rgb(255, 62, 62), 0 0 5px rgb(255, 19, 251);
   }
-
+  
+  
 h1{ 
-  color:aliceblue
+  color:aliceblue;
+}
+
+.link {
+  text-align: center;
+  font-size: medium;
+
+}
+
+
+.link a {
+ text-decoration :none;
+ color :rgba(193,32,186,0.978);
+ text-shadow :2px 2px 2px rgb (0,0,0);
+}
+
+
+
 
